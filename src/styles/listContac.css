@@ -1,0 +1,26 @@
+.contenedorContactos{
+    
+    min-height: 400px;
+    margin:auto;
+}
+
+.contactPhoto{
+    border-radius: 50%;
+    border: 1px solid gray;
+}
+.editor, .delete {
+    border:0px;
+    padding: 2px;
+}
+
+.contentOtherData{
+    text-align: start;
+}
+p{
+    font-size:20px;
+    color:rgba(128, 128, 128, 0.756);
+}
+.namecontac{
+    font-size: 40px;
+    color:black;
+}
